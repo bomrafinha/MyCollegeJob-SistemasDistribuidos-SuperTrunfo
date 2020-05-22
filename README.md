@@ -1,5 +1,24 @@
 # Super Trunfo
 
+![Github repo age](https://img.shields.io/github/issues/detail/age/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo/1.svg?style=flat-square)
+![Github author](https://img.shields.io/github/issues/detail/u/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo/1.svg?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub last commit](https://img.shields.io/github/last-commit/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo.svg?style=flat-square)
+
+![GitHub issues](https://img.shields.io/github/issues/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub forks](https://img.shields.io/github/forks/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub stars](https://img.shields.io/github/stars/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub All Releases](https://img.shields.io/github/downloads/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo/total)
+
+![GitHub top language](https://img.shields.io/github/languages/top/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub language count](https://img.shields.io/github/languages/count/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+![GitHub](https://img.shields.io/github/license/bomrafinha/MyCollegeJob-SistemasDistribuidos-SuperTrunfo)
+
 >
 >Trabalho de Sistemas Distribuídos e Programação Paralela - INF0213A (UCS - Universidade de Caxias do Sul)
 >
@@ -37,3 +56,10 @@ Regras do Jogo (Fonte: Grow Jogos e Brinquedos S. A.) O jogo comporta de dois a 
 etc. e com essas informações que cada um vai jogar). Inicia o jogo quem estiver à esquerda do jogador que distribuiu as cartas
 Se você é o primeiro a jogar, escolha, dentre as informações contidas em sua carta, aquela que você julga ser capaz de superar a que se encontra nas cartas que seus adversários têm em mãos, Por exemplo: você escolhe a informação potência. Imediatamente todos os outros jogadores abaixam a primeira carta de suas pilhas e conferem o valor da informação. Quem tiver o valor mais alto, ganha as cartas da mesa e coloca as embaixo de sua pilha. O próximo a jogar será o que venceu a jogada anterior. Assim prossegue o jogo, até que um dos participantes fique com todas as cartas do baralho, vencendo a partida. Se dois ou mais jogadores abaixarem cartas com o mesmo valor máximo, os demais participantes deixam suas cartas na mesa e os que empataram decidem a vitória. Para isso, aquele que cantou inicialmente dirá  um novo item de sua próxima carta, e quem tiver o valor mais alto, ganha todas as cartas da rodada.
 A carta SUPER TRUNFO é embaralhada com as demais. Seus dados técnicos superam todos os dados de cartas marcadas com B/C/D. Assim, se você tiver uma carta SUPER TRUNFO, sua chance de ganhar de seus adversários è muito grande. Você só vai perder se um deles lhe apresentar uma carta marcada com A (1A, 2A, 3A, 4A, etc. 
+
+<br />
+
+## Créditos <a name="creditos"></a>
+[@bomrafinha](https://github.com/bomrafinha)
+
+## [Licença](./LICENSE) <a name="licenca"></a>
